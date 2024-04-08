@@ -19,9 +19,11 @@
 
 ## About me 😀
 
+<!--
 🎉 &emsp; 함께 학습하고 <br/><br/>
 🥰 &emsp; Love to writing code and learning new features<br/><br/>
 📧 &emsp; seahee0130@gmail.com<br/><br/>
+-->
 
 ## Tech Stack 🔨
 
@@ -55,12 +57,10 @@
 </div>
 
 <div align="center">
-   <a href="https://github.com/se2develop"><img alt="Sehee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=se2develop&langs_count=8&layout=compact" height="150px"/>
+   <a href="https://github.com/se2develop"><img alt="Sehee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=se2develop&langs_count=8&layout=compact" height="150px" width="48%"/>
    </a>
-
+    
 ![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=noseahe)
-
-<br/>
    
 </div>
 
